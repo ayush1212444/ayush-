@@ -1,0 +1,2 @@
+Auto start on boot (Power on karte hi start ho jaaye)
+sudo nano /etc/systemd/system/ayush-assistant.service
