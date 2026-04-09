@@ -1,0 +1,2 @@
+cd ~
+wget https://gist.githubusercontent.com/YOUR_USERNAME/YOUR_GIST_ID/raw/ayush_assistant.py -O ayush_assistant.py
