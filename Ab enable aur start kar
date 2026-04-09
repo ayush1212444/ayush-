@@ -1,0 +1,4 @@
+Save karo (Ctrl + X → Y → Enter)
+sudo systemctl daemon-reload
+sudo systemctl enable ayush-assistant.service
+sudo systemctl start ayush-assistant.service
