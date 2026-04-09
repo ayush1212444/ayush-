@@ -1,0 +1,4 @@
+sudo apt update
+sudo apt install python3-pyaudio portaudio19-dev mpg321 flac -y
+sudo pip3 install gtts speechrecognition openai gpiozero --break-system-packages
+this a commds run one by one 
